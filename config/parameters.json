@@ -1,0 +1,26 @@
+{
+  "url" : "https://firstnativeapp117-sandbox.mxapps.io",
+  "identifier" : "io.mxapps.firstnativeapp117-sandbox",
+  "version" : "0.0.1",
+  "name" : "FirstNativeApp",
+  "description" : null,
+  "iosEnabled" : true,
+  "androidEnabled" : true,
+  "requirePin" : false,
+  "enableOffline" : false,
+  "permissions" : {
+    "calendar" : true,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : true,
+    "microphone" : true,
+    "geoLocation" : true,
+    "push" : false
+  },
+  "theme" : {
+    "background" : "#0595DB",
+    "text" : "#ffffff",
+    "button" : "#76CA02",
+    "buttonCaption" : "#ffffff"
+  }
+}
